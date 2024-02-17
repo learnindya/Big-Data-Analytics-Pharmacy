@@ -1,0 +1,32 @@
+<div style='display: flex; justify-content: center; align-items: center; height: 100%; padding: 0 5%'><span>
+
+<p style="color:white"; style="font-size:6px"; style="font-family:Droid Sans">
+
+Product name: 
+<b>{{Product Name}}</b><br>
+Brand:<br> 
+<b>{{Brand}}</b><br> 
+Package:<br> 
+<b>{{Package}}</b><br> 
+Price:<br> 
+<b>{{Price}}</b><br>
+</p>
+
+</span></div>
+
+-------------------------------------
+
+<div style='display: flex; justify-content: center; align-items: center; height: 100%; padding: 0 5%'><span>
+
+<p>
+  <span style="font-size: 10px; color:white; font-family:Droid Sans">Product name:<br></span>
+  <span style="font-size: 14px; color:white; font-family:Droid Sans"><b>{{Product Name}}</b><br></span>
+  <span style="font-size: 10px; color:white; font-family:Droid Sans">Brand:<br></span>
+  <span style="font-size: 14px; color:white; font-family:Droid Sans"><b>{{Brand}}</b><br></span>
+  <span style="font-size: 10px; color:white; font-family:Droid Sans">Package:<br> </span>
+  <span style="font-size: 14px; color:white; font-family:Droid Sans"><b>{{Package}}</b><br> </span>
+  <span style="font-size: 10px; color:white; font-family:Droid Sans">Price:<br> </span>
+  <span style="font-size: 14px; color:white; font-family:Droid Sans"><b>{{Price}}</b><br></span>
+</p>
+
+</span></div>
